@@ -40,7 +40,7 @@ class BlogController extends Controller
     }
     public function getMessages()
     {
-
+ 
         $messages = Message::join('users','users.id','=','messages.user_id')
                             ->leftjoin('assets',function($q){
                                 $q->on('assets.id','=','users.asset_id')
