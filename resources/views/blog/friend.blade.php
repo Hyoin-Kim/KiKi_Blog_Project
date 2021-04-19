@@ -460,7 +460,7 @@ ul.friend-list .right p {
                   <div class="row col-lg-12" style="margin-left:unset!important;">
                     @foreach($friends as $friend)
                       <div class="col-lg-4">
-                          <div class="card card-one"  id="friend-profile" data-id="{{$friend->partner_id}}">
+                          <div class="card card-one friend-profile"  id="friend-profile" data-id="{{$friend->partner_id}}">
                               <div class="header">
                                   <div class="avatar">
                                       <img class="img-circle img-sm" alt="Profile Picture" @if($friend->asset_id != 0) src="{{url('/assets/img/profile/'.$friend->asset_file_name.'.'.$friend->asset_file_extension)}}" @else src="{{ url("/assets/mononoke111.jpg") }}" @endif >
@@ -530,7 +530,7 @@ ul.friend-list .right p {
 
 
  <div class="modal fade" id="send-message" tabindex="-1" role="dialog" aria-labelledby="addnotesmodalTitle" style="display: none;" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document" data-id={{$friend->id}}>
+        <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content border-0">
                 <div class="modal-header bg-info text-white">
                     <h5 class="modal-title text-white"> Send Message to your Friend ! </h5>
@@ -606,6 +606,9 @@ ul.friend-list .right p {
 
   function message(elem, partner_id){
     message_partner_id = partner_id;
+
+
+
     $('#send-message').modal('show');
     $('#btn-n-save').hide();
     $('#btn-n-add').show();
