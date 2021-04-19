@@ -7,4 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+스튜디오 지브리 테마를 기반으로 제작한, laravel 프레임워크 php, jquery 라이브러리 javascript, html, css를 통해 제작한 블로그.
+album, board, add/delete friend, message, news, modify mypage 등의 블로그의 기본적인 기능들이 구현되어 있음.
 
