@@ -17,15 +17,37 @@
 
 <h4> Board 페이지 </h4>
 
+```
+-글 작성하기
+-글 편집하기
+-글 삭제하기 
+```
+
 ![Animation13](https://user-images.githubusercontent.com/45025551/132122974-1d671aa7-a366-4878-bdd0-6e9a9c4e9449.gif)
 
 <h4> Album 페이지 </h4>
+
+```
+-글 작성하기
+-글 편집하기
+-글 삭제하기
+-나만보기/전체보기
+-카테고리화 하기
+```
 
 ![Animation14](https://user-images.githubusercontent.com/45025551/132123044-c7906c89-5551-4f68-8d75-bbc64ae91449.gif)
 
 ![Animation15](https://user-images.githubusercontent.com/45025551/132123113-7da57c9c-e5d7-49fe-9914-714d29b2414e.gif)
 
 <h4> Album 댓글 페이지 </h4>
+
+```
+-댓글 작성하기
+-게시물 좋아요/싫어요
+-댓글 좋아요/싫어요
+-댓글 사진 게시하기
+-댓글 삭제하기
+```
 
 ![Animation17](https://user-images.githubusercontent.com/45025551/132123269-40a47d21-639f-41fd-8faf-b62d775a83f7.gif)
 
@@ -34,6 +56,13 @@
 ![Animation18](https://user-images.githubusercontent.com/45025551/132123319-0bc56e59-8e6a-4014-8ecf-c8d9bed736ae.gif)
 
 <h4> 친구List 페이지 </h4>
+
+```
+-친구에게 메세지 보내기
+-친구 앨범 들어가기
+-친구 삭제하기
+-친구 sns 
+```
 
 ![Animation16](https://user-images.githubusercontent.com/45025551/132123171-341aadaf-a958-4a80-8d32-f56402f76eaf.gif)
 
