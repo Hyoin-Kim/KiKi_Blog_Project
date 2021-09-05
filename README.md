@@ -39,7 +39,7 @@
 
 <h4> 친구 메세지 전송 페이지</h4>
 
-![image](https://user-images.githubusercontent.com/45025551/132123421-a9315879-633d-402a-b489-329c194e1fe9.png)
+![image](https://user-images.githubusercontent.com/45025551/132123545-f35faf7e-9b1e-4a73-870b-6977ed7c75b4.png)
 
 
 <h4> 알람 페이지 </h4>
