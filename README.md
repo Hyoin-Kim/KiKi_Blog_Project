@@ -76,9 +76,4 @@
 
 ![image](https://user-images.githubusercontent.com/45025551/132123476-1747c90e-f2d6-43d0-979f-f3439295108d.png)
 
-<h3>페이지 링크</h3>
-http://52.70.136.169/
-
-
-
 
